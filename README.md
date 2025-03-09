@@ -1,4 +1,4 @@
-# Tableau-COVID-19-Global-Impact-2020-2021
+# Tableau-COVID-19 Global Impact Analysis 
 
 Check out my interactive Tableau dashboard:
 [My Dashboard]([https://public.tableau.com/shared/your_dashboard_link](https://public.tableau.com/app/profile/loren.anne.talete/viz/shared/Q26SXDNF6))
